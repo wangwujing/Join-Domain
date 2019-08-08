@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp3.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="Window1" Width="{DynamicResource {x:Static SystemParameters.PrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.PrimaryScreenHeightKey}}" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized" WindowStartupLocation="Manual" Left="0" Top="0">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="img/BG-01.jpg"/>
+        </Grid.Background>
+        <Border CornerRadius="30" Background="White" Opacity="0.5"   Width="350" Height="150" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="350" Height="150" Margin="0">
+            <Label FontSize="30"  HorizontalAlignment="Center" VerticalAlignment="Center">入域中,请耐心等候...</Label>
+        </Grid>
+        <Label FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Top">自动化入域V0.3版本</Label>
+    </Grid>
+</Window>

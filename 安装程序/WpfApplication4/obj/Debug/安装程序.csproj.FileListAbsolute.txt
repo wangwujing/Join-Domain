@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.exe
+C:\Users\Administrator\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\安装程序.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\安装程序.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.baml
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup.exe
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup.pdb
+D:\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.exe
+D:\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.pdb
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\安装程序.csprojResolveAssemblyReference.cache
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup.g.cs
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.cache
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.lref
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup.baml
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\setup.g.resources
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+D:\项目\WpfApplication4\WpfApplication4\obj\Debug\安装程序.csproj.GenerateResource.Cache
+D:\项目\WpfApp3\WpfApp3\bin\Debug\setup.exe
+D:\项目\WpfApp3\WpfApp3\bin\Debug\setup.pdb

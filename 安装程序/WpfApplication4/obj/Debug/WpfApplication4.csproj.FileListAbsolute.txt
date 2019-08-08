@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\administrator\Desktop\JO\setup.exe
+c:\users\administrator\Desktop\JO\setup.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\setup.pdb
+C:\Users\Administrator\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.exe
+C:\Users\Administrator\Desktop\WpfApp3\WpfApp3\bin\Debug\setup.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow1.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow1.baml
